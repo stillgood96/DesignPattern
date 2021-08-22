@@ -19,6 +19,6 @@ public class SingletonTest {
         // aclazz와 비교했을때는 false가 나오는걸 확인할 수 있다.
 
         // 이로써 한 프로그램 내부에서 단 하나의 객체만이 존재할때는 getInstance를 통한
-        // 객체를 생성해서 사용해야 한다. 
+        // 객체를 생성해서 사용해야 한다.
     }
 }
