@@ -1,4 +1,4 @@
-package com.imlsw96.designPattern.aop;
+package com.imlsw96.designPattern.proxyPattern.aop;
 
 import com.imlsw96.designPattern.proxyPattern.IBrowser;
 
